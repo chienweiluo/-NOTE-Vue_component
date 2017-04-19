@@ -129,7 +129,7 @@ $on() 監聽事件
 自定义事件可以用来创建自定义的表单输入组件，使用 v-model 来进行数据双向绑定
 
 
-source: Vue文檔(https://cn.vuejs.org/v2/guide/components.html#%E4%BD%BF%E7%94%A8-v-on-%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%8B%E4%BB%B6)
+source: [Vue文檔](https://cn.vuejs.org/v2/guide/components.html#%E4%BD%BF%E7%94%A8-v-on-%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%8B%E4%BB%B6)
 
 
 
