@@ -18,7 +18,7 @@
         new Vue({
             el: '#example'
         }
->> data 必須是個function
+> 如果使用data屬性 必須是個function
 
 <h3>Parent -> Child 輩分 </h3>
 
