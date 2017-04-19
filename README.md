@@ -20,7 +20,7 @@
         }
 > 如果使用data屬性 必須是個function
 
-<h3>Parent -> Child 輩分 </h3>
+<h3>1. Parent -> Child 輩分 </h3>
 
 -----------------------
 
@@ -102,7 +102,7 @@ prop 作为需要被转变的原始值传入。
       }
     })
       
-<h3>Siblings 輩分間 - EventBus</h3>
+<h3>2. Siblings 輩分間 - EventBus</h3>
 
 ----------
 
@@ -117,7 +117,7 @@ prop 作为需要被转变的原始值传入。
     })
     在更多复杂的情况下，你应该考虑使用专门的 状态管理模式.(vuex)
 
-<h3>Child -> Parent 輩分 - 自定義事件 </h3>
+<h3>3. Child -> Parent 輩分 - 自定義事件 </h3>
 
 -------------------
 $emit()  觸發事件 
